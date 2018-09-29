@@ -1,0 +1,12 @@
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.pdb
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.exe
+D:\SEMESTER 3\Pemrograman Lanjutan\TerbilangTugas2\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.pdb
